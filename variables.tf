@@ -1,11 +1,13 @@
-variable "instance_type" {
-  default = "t2.micro"
-}
-
 variable "key_name" {
-  description = "Existing AWS key pair name"
+  description = "Your existing AWS key pair name"
 }
 
-variable "domain_name" {
-  default = "vikastodo.com"
+variable "github_repo" {
+  default     = "https://github.com/vikas-reddy-21/todo_project.git"
+  description = "Your GitHub repo HTTPS URL"
+}
+
+variable "project_name" {
+  default     = "todo_project"
+  description = "Your Django project folder name"
 }
