@@ -84,10 +84,15 @@ Deploy the application on AWS cloud
 
 
 In this setup:
+
 -->Nginx receives requests from users
+
 -->It forwards the request to Gunicorn
+
 -->Gunicorn runs the Django application
+
 -->Django interacts with the SQLite database
+
 
 This architecture helps in handling requests efficiently and makes the application ready for production deployment.
 
