@@ -50,11 +50,17 @@ Project Features
 This application provides the following features:
 
 -Add new tasks
+
 -View all tasks
+
 -Update existing tasks
+
 -Delete tasks
+
 -Mark tasks as completed
+
 -Store tasks in a database
+
 
 Deploy the application on AWS cloud
 =========================================
