@@ -30,8 +30,11 @@ In this project, I also practiced deploying a real application to the cloud usin
 
 For the production setup, I used:
 
+
 1.Nginx as the web server
+
 2.Gunicorn as the application server
+
 3.Terraform to create and manage AWS infrastructure
 
 The main goal of this project was to learn Django development, cloud deployment, and basic DevOps practices.
