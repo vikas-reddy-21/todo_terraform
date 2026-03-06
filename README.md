@@ -166,13 +166,21 @@ For production, configure the following:
 
 What I Learned From This Project
 =========================================
+
 1.While working on this project, I learned:
+
 2.How to build web applications using Django
+
 3.How to deploy applications on AWS cloud
+
 4.How Nginx works as a reverse proxy
+
 5.How to run Django with Gunicorn in production
+
 6.How to automate infrastructure using Terraform
+
 7.How to manage project code using Git and GitHub
+
 
 
 Future Improvements
