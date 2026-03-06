@@ -96,11 +96,13 @@ Technologies Used
 1.Backend
 
  -->Python
+ 
  -->Django
 
 2.Web Server
 
  -->Nginx
+ 
  -->Gunicorn
 
 3.Cloud Platform
@@ -114,6 +116,7 @@ Technologies Used
 5.Version Control
 
  -->Git
+ 
  -->GitHub
 
 Infrastructure Setup
@@ -134,19 +137,24 @@ Using Terraform helps in managing infrastructure using Infrastructure as Code (I
 Deployment Steps
 =============================================
 1. Clone the Repository
+   
     git clone https://github.com/your-username/todo-project.git
+   
     cd todo-project
 
 2. Install Dependencies
-    pip install -r requirements.txt
+     pip install -r requirements.txt
 
 3. Run Database Migrations
+   
     python manage.py migrate
 
 4. Start the Development Server
+
     python manage.py runserver
 
 5. Production Deployment
+
 
 For production, configure the following:
 
