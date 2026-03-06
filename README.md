@@ -85,20 +85,25 @@ This architecture helps in handling requests efficiently and makes the applicati
 Technologies Used
 ====================================
 1.Backend
+
  -->Python
  -->Django
 
 2.Web Server
+
  -->Nginx
  -->Gunicorn
 
 3.Cloud Platform
+
  -->AWS EC2
 
 4.Infrastructure Automation
+
  -->Terraform
 
 5.Version Control
+
  -->Git
  -->GitHub
 
@@ -158,11 +163,16 @@ Future Improvements
 Some improvements I plan to add in the future:
 
 •User authentication system
+
 •REST API support
+
 •Containerization using Docker
+
 •CI/CD pipeline using GitHub Actions
+
 •HTTPS support using SSL certificates
 
 Author
+===============
 Jamanla Vikas Reddy
 
