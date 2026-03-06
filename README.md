@@ -125,12 +125,19 @@ The AWS infrastructure for this project is created using Terraform.
 
 Terraform automatically provisions the required resources in AWS such as:
 
+
 •VPC
+
 •Subnet
+
 •Internet Gateway
+
 •Route Table
+
 •Security Groups
+
 •EC2 Instance
+
 
 Using Terraform helps in managing infrastructure using Infrastructure as Code (IaC), which makes the setup easier to recreate and maintain.
 
